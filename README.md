@@ -1,6 +1,3 @@
 # Introduction
 
-Welcome to the Critical Web Design book
-
-This is a test
-
+The Critical Web Design book will teach learners to conceptualize, design, and program responsive websites as both an applied and creative practice. Readers will develop and use technical skills in interface design, usability/accessibility, and coding in HTML/CSS and Javascript, as well as speculative and critical design methods for imagining and producing online works that address issues around design and technology in society. Each chapter includes hands-on instructions and demos that integrate web design, development, and publishing for new learners, with articles and examples for thinking about design's impact and inspiring and engaging users with its potential.

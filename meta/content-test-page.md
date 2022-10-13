@@ -4,7 +4,7 @@ description: >-
   the whole book.
 ---
 
-# Test Page
+# Content test page
 
 ### Text
 
@@ -23,12 +23,37 @@ This is a warning
 
 `this is some basic code`&#x20;
 
+{% code title="hello.js" overflow="wrap" lineNumbers="true" %}
 ```javascript
-// Some code
-// this is a code block
+// this is a sample code block
 var greeting = "hello world!"
 console.log(greeting);
 ```
+{% endcode %}
+
+{% code title="hello.html" overflow="wrap" lineNumbers="true" %}
+```html
+<html>
+<head></head>
+<body>
+    <h1>Hello world!</h1>
+</body>
+</html>
+```
+{% endcode %}
+
+{% code overflow="wrap" lineNumbers="true" %}
+```bash
+# view any changes to files
+git status
+# stage all new or changed files  
+git add .
+# commit all changes
+git commit -m "First commit"
+# push changes to the remote (Github)
+git push
+```
+{% endcode %}
 
 {% embed url="https://codepen.io/owenmundy/pen/abGQENR" %}
 An example Codepen embed
@@ -39,3 +64,5 @@ An example Codepen embed
 A youtube video
 
 {% embed url="https://www.youtube.com/watch?ab_channel=LinkedInLearning&v=gVUVUoXrPzM" %}
+
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
