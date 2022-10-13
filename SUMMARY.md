@@ -12,3 +12,7 @@
 * [Design Principles](design/design-principles.md)
 * [Design Iteration](design/design-iteration.md)
 * [README](design/readme.md)
+
+***
+
+* [Test Page](test-page.md)
