@@ -23,7 +23,7 @@ This is a warning
 
 ### Code
 
-`this is some basic code`
+`this is some basic code`&#x20;
 
 {% code title="hello.js" overflow="wrap" lineNumbers="true" %}
 ```javascript

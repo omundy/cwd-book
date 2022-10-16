@@ -1,4 +1,4 @@
-# 📚 Design Principles
+# Design Principles
 
 Design Principles
 
