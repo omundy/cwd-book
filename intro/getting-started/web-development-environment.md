@@ -1,3 +1,0 @@
-# Web development environment
-
-How to set up your computer for web development...
