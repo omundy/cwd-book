@@ -13,7 +13,7 @@ The **quick** _brown_ _**fox**_ <mark style="color:green;">jumps</mark> `over` ~
 * This is
 * a list
 
-link to internal file [../SUMMARY.md](../../SUMMARY.md)
+link to internal file [../SUMMARY.md](../SUMMARY.md)
 
 > This is a quote by a famous person
 
@@ -67,4 +67,4 @@ A youtube video
 
 {% embed url="https://www.youtube.com/watch?ab_channel=LinkedInLearning&v=gVUVUoXrPzM" %}
 
-<img src="../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
