@@ -1,4 +1,10 @@
-# ❓ Ch 2 - Completions
+# ❔ Ch 2 - Completions
+
+### Assessments
+
+1. Complete all quizzes in this chapter
+2. Complete all exercises
+3. Complete all bring to class items
 
 ### Bring to class
 

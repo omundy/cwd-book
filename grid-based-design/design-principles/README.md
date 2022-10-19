@@ -4,5 +4,8 @@ description: >-
   of this chapter
 ---
 
-# 📚 Critical Web Design
+# 📚 Design Principles
 
+Design Principles
+
+Symmetry, whitespace, etc.

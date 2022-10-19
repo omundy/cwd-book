@@ -1,3 +1,3 @@
 # Web development environment
 
-How to set up your computer for web development...
+Set up your [web development environment](https://github.com/omundy/dig245-critical-web-design/blob/main/topics/development/environment.md)

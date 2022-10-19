@@ -1,3 +1,9 @@
+---
+description: >-
+  Context (cultural, artistic, humanities, politics, etc.) for the technologies
+  of this chapter
+---
+
 # 📚 Networks
 
 A history of networks&#x20;

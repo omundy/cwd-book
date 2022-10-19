@@ -4,5 +4,6 @@ description: >-
   of this chapter
 ---
 
-# 📚 Critical Web Design
+# 📚 "Looking under the hood"
 
+Working on cars is not that different from web development...

@@ -1,2 +1,0 @@
-# 📚 Pictures under glass
-
